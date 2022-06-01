@@ -1,6 +1,7 @@
 # Polkadot Scanner Backend
 
 A simple node.js server that is able to serve static content and protect it behind a password.
+This project is serving the static content from https://github.com/leadstar116/polkadot-scanner
 
 ## Used Stacks:
 
